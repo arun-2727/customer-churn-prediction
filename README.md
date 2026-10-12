@@ -162,7 +162,7 @@ The exact interpretation depends on the explainer and output scale. Feature cont
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/arun-2727/customer-churn-prediction.git>
 cd Customer-Churn-Prediction
 ```
 
