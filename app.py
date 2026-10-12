@@ -235,8 +235,8 @@ try:
         )
 
 
-    #temporary line of code
-    st.write("Model type:", type(model).__name__)
+    
+    
 except Exception as exc:
     st.error(f"Unable to load the trained model: {exc}")
     st.stop()
