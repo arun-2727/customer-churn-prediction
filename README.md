@@ -226,9 +226,9 @@ Streamlit will provide a local URL to open the dashboard in your browser.
 
 Computer Science student specializing in Artificial Intelligence and Machine Learning.
 
-GitHub: [Add your GitHub profile URL](https://github.com/arun-2727)
+GitHub: [arun-2727](https://github.com/arun-2727)
 
-LinkedIn: [Add your LinkedIn profile URL](www.linkedin.com/in/arun-thota-336616331)
+LinkedIn: [Arun Thota](www.linkedin.com/in/arun-thota-336616331)
 
 ---
 
