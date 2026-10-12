@@ -31,3 +31,4 @@ data/raw/
 # Trained model artifacts (keep local unless intentionally publishing)
 models/*.pkl
 models/*.joblib
+!models/customer_churn_model.pkl
